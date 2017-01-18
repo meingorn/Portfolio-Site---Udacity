@@ -171,6 +171,12 @@ Page:About
   border-radius: 50em;
 }
 
+.about-main {
+  list-style: none;
+  padding: 0;
+  margin: 0; 
+}
+
 /**************************************
 Page:Contact
 **************************************/
