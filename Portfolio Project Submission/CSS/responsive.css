@@ -5,7 +5,7 @@
 Page:Two Column Layout
 **************************************/
 
-  #primary{
+  #primary {
    width:50%;
    float:left;
   }
@@ -46,7 +46,7 @@ margin: 0 5% 30em 0;
 /**************************************
 Page: Header
 **************************************/
-  nav{
+  nav {
     background: none;
     float: right;
     font-size:1.125em;
@@ -54,7 +54,7 @@ Page: Header
     width: 45%;
   }
   
-  h1{
+  h1 {
     font-size: 2.5em;
   }
   
